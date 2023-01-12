@@ -1,0 +1,3 @@
+Op de ... => ... moet:
+
+$tijd => $afspraak
